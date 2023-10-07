@@ -1,0 +1,46 @@
+*{
+  margin: 10;
+  padding: 10;
+}
+
+.box{
+  position: absolute;
+  top: 10%;
+  left: 40%;
+}
+.inputuser{
+  width: 60%;
+  letter-spacing: 2px;
+}
+.labelinput{
+  position: relative;
+  top: 5%;
+  left: -81%;
+  pointer-events: none;
+}
+.fquantidade{
+  width: 40%;
+}
+.fatracao{
+  position: absolute;
+  margin-top: 5%;
+  left: -18%;
+  text-align: right;
+}
+.enviar{
+  position: absolute;
+  left: 20%;
+}
+#quantidade{
+  position: absolute;
+  right: 60%;
+}
+#fquantidade{
+  position: absolute;
+  right: 101%;
+}
+
+.listagem{
+  text-decoration: none;
+}
+

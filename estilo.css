@@ -1,0 +1,33 @@
+.obrigado{
+    text-align: center;
+}
+.cadastrar{
+    text-decoration: none;
+    font-size: 20px;
+    color:  black;
+    border-top: 3px solid black;
+    border-bottom: 3px solid black;
+}
+.cadastrar:hover{
+    color: gray;
+    border-top: 3px solid gray;
+    border-bottom: 3px solid gray;
+}
+
+#lista{
+    color: aqua;
+}
+.listagem{
+    position: absolute;
+    right: 1%;
+    text-decoration: none;
+    font-size: 20px;
+    color:  black;
+    border-top: 3px solid black;
+    border-bottom: 3px solid black;
+}
+.listagem:hover{
+    color: gray;
+    border-top: 3px solid gray;
+    border-bottom: 3px solid gray;
+}
